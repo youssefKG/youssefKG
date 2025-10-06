@@ -8,3 +8,4 @@
 </div>
 
 <hr>
+![Snake animation](https://github.com/youssefKG/youssefKG/blob/output/github-contribution-grid-snake.svg)
