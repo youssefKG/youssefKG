@@ -1,8 +1,6 @@
 
 #
 
-<br clear="both">
-
 # Hey, I'm Youssef Taoussi
 
 #
