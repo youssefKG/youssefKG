@@ -3,7 +3,7 @@
 
 <br clear="both">
 
-<p align="center">Hey, I'm Youssef Taoussi</p>
+Hey, I'm Youssef Taoussi
 
 #
 
