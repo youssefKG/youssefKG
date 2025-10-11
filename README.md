@@ -1,4 +1,3 @@
-
 #
 
 # Hey, I'm Youssef Taoussi
@@ -9,7 +8,11 @@
 
 ###
 
-<p align="left">💻 Software Developer in Training | Passionate about clean code, scalable systems, and impactful user experiences.</p>
+<p align="left">
+💻 Software Developer in Training | Passionate about clean code, scalable systems, and impactful user experiences.<br><br>
+🎓 Currently studying at <a href="https://www.42network.org/" target="_blank">1337 School</a> — part of the <strong>42 Network</strong>, where I’m constantly improving my problem-solving and software engineering skills.<br>
+📱 At the same time, I’m working on a <strong>mobile app</strong> to apply what I learn and build real-world solutions.
+</p>
 
 ###
 
