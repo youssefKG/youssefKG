@@ -16,7 +16,11 @@
 <h2 align="left">I code with</h2>
 
 ###
+### 👨‍💻 About Me
 
+I'm currently studying at [1337 School](https://www.42network.org/) — part of the **42 Network**, where I’m constantly improving my problem-solving and software engineering skills.  
+At the same time, I’m working on a **mobile app** to sharpen my skills in real-world development and product design.
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
