@@ -76,11 +76,8 @@
 
 ###
 <br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=youssefKG&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=youssefKG&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Youssef taoussi" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefKG&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
-</div>
-
+  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <hr>
