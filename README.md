@@ -74,10 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
 
-###
-<br>
-  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-light-mode-only)
-<hr>
+
+![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/youssefKG/github-stats/master/generated/languages.svg#gh-light-mode-only)
