@@ -1,5 +1,16 @@
-# 💫 About Me:
-Software Engineering student at 1337 (42 Network) passionate about building software and continuously learning. Interested in mobile development, distributed systems, algorithms, and software architecture. Always exploring new technologies and looking for opportunities to grow as an engineer.<br>
+# Hey, I'm Youssef Taoussi 👋
+
+🎓 Software Engineering student at 1337, part of the 42 Network
+
+💡 Passionate about software engineering, problem solving, and computer science fundamentals
+
+📱 Currently focused on mobile application development
+
+⚙️ Exploring distributed systems, software architecture, and low-level programming
+
+🛠️ Building projects to learn, experiment, and grow as an engineer
+
+🌱 Always curious, always learning
 
 
 ## 🌐 Socials:
